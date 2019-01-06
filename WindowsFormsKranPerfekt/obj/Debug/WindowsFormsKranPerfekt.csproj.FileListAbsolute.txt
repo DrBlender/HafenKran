@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\bin\Debug\WindowsFormsKranPerfekt.exe.config
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\bin\Debug\WindowsFormsKranPerfekt.exe
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\bin\Debug\WindowsFormsKranPerfekt.pdb
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.Form1.resources
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.Properties.Resources.resources
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.exe
+C:\Users\Alex\source\repos\WindowsFormsKranPerfekt\WindowsFormsKranPerfekt\obj\Debug\WindowsFormsKranPerfekt.pdb
